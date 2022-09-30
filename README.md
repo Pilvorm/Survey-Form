@@ -12,8 +12,8 @@ This project was made with:
 
 Challenges:
 - Development went pretty well.
-- Learned that inputs has the pseudocode **::focus** that helps user to see what field the user is currently filling.
-- Learned that the CSS property **background** really gives flexibility on modifying background images.
+- Learned that we can apply the pseudo-class **::focus** on inputs to help the user see what field they are currently filling.
+- Learned that the CSS property **background** really gives flexibility in modifying background images.
 
 ## Go see the page!
 See the page [here](https://codepen.io/danielemerald/full/gOgOZEw).
